@@ -1,0 +1,29 @@
+ได้เลย—มาคิด “ธีม + mood board” ให้ Kanban ของคุณแบบจับต้องได้ ใช้กับ Tailwind/Headless UI/Radix/lucide/react-hot-toast ได้ทันที
+
+แนวคิดธีม: “Zen Kanban”
+
+โทนมินิมอล สะอาด ตาไม่ล้า ใช้ โทนฟ้าอมม่วง (indigo/blue) เป็นจุดโฟกัสเดียว เพื่อให้คอลัมน์/การ์ดเยอะๆ ยังคงอ่านง่าย และปรับเป็นดาร์กโหมดได้เนียน
+
+คีย์เวิร์ดอารมณ์ (mood)
+
+calm • focused • modern • breathable
+
+soft shadows • rounded large radius • gentle motion
+
+paper & glass hints • neutral surfaces • one strong accent
+
+Mood board (ไอเดียภาพ/องค์ประกอบ)
+
+พื้นหลัง: ขาวอมเทา/ควันบุหรี่ (off-white), มี texture เบามากหรือ gradient ละมุนๆ
+
+การ์ด: คล้ายกระดาษชั้นเดียว เงานุ่ม (soft shadow) ขอบมนนิดๆ
+
+ไอคอน: เส้นบาง (lucide) ขนาดคงที่ 16/20px
+
+จุดเน้น: ปุ่ม/ลิงก์หลักสี indigo, focus ring สีเดียวกัน
+
+ไมโครอินเตอร์แอคชัน: hover ยกเงาเบาๆ, scale 1.01, transition 150ms
+
+อารมณ์ภาพรวม: พื้นที่หายใจเยอะ, ช่องไฟ 8pt grid
+
+ถ้าอยากหา reference ต่อเอง: “minimal workspace ui”, “soft card shadows”, “indigo accent dashboard”, “kanban neutral ui”
